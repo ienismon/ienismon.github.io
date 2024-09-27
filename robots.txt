@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ienismon.github.io/sitemap.ienismon.gz
+Sitemap: https://ienismon.github.io/app/sitemap.ienismon.gz
+Sitemap: https://ienismon.github.io/assets/sitemap.ienismon.gz
+Sitemap: https://ienismon.github.io/css/sitemap.ienismon.gz
+Sitemap: https://ienismon.github.io/data/sitemap.ienismon.gz
+Sitemap: https://ienismon.github.io/includes/sitemap.ienismon.gz
+Sitemap: https://ienismon.github.io/item/sitemap.ienismon.gz
+Sitemap: https://ienismon.github.io/src/sitemap.ienismon.gz
